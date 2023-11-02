@@ -1,7 +1,6 @@
-### Hi there 👋
+#SirFateAndRage
 
-<!--
-**SirFateAndRage/SirFateAndRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/SirFateAndRage/SirFateAndRage/main/Banner.png" alt="">
 
 Here are some ideas to get you started:
 

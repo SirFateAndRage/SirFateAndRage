@@ -1,5 +1,3 @@
-#SirFateAndRage
-
 <img src="https://raw.githubusercontent.com/SirFateAndRage/SirFateAndRage/main/Banner.png" alt="">
 
 Here are some ideas to get you started:

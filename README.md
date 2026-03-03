@@ -2,7 +2,7 @@
 
 ### Hello! 👋
 
-I'm **Cristian**, also known as **SirFateAndRage**, a passionate **Unity Developer** with over 3 years of experience in the field. Throughout my career, I've had the opportunity to lead small development teams and have always loved creating tools and packages to enhance and facilitate work in Unity.
+I'm **Cristian**, also known as **SirFateAndRage**, a passionate **Unity Developer** with over 5 years of experience in the field. Throughout my career, I've had the opportunity to lead small development teams and have always loved creating tools and packages to enhance and facilitate work in Unity.
 
 🔧 I specialize in creating **tools and packages** for Unity, always aiming to improve efficiency and quality of work within the engine.
 
